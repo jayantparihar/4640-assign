@@ -30,9 +30,7 @@ To validate this project run:
 To plan the project 
 ``` terraform plan ```
 
-To build all the resources defined in these files:
-
-``` terraform apply ```
+To build all the resources defined in these files: ``` terraform apply ```
 
 ![linux](https://user-images.githubusercontent.com/78824700/204157995-cce56109-4ecb-4177-a9c1-b85546a44079.JPG)
 
